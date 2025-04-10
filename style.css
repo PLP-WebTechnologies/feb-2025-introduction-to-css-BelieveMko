@@ -1,0 +1,40 @@
+
+/* Selector 1: Styling the header */
+.main-header {
+    background-color: #4CAF50; /* Green background */
+    color: white; /* White text color */
+    text-align: center; /* Centered text */
+    padding: 20px; /* Padding around the header */
+}
+
+/* Selector 2: Styling the content section */
+#content {
+    margin: 20px; /* Margin around the content */
+    padding: 15px; /* Padding inside the content */
+    border: 2px solid #ccc; /* Light gray border */
+    border-radius: 5px; /* Rounded corners */
+    font-family: 'Arial', sans-serif; /* Font family */
+}
+
+/* Selector 3: Styling the introductory paragraph */
+.intro {
+    font-size: 18px; /* Font size */
+    line-height: 1.6; /* Line height for readability */
+    color: #333; /* Dark gray text color */
+}
+
+/* Styling the image */
+.responsive-image {
+    max-width: 100%; /* Responsive width */
+    height: auto; /* Maintain aspect ratio */
+    border: 1px solid #ddd; /* Light border around the image */
+    border-radius: 4px; /* Rounded corners for the image */
+}
+
+/* Footer styling */
+.main-footer {
+    text-align: center; /* Centered text */
+    padding: 10px; /* Padding around the footer */
+    background-color: #f1f1f1; /* Light gray background */
+    color: #555; /* Darker gray text color */
+}
